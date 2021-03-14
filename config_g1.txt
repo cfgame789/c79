@@ -1,4 +1,0 @@
-{
-	isOn: true,
-	remoteUrl:"https://dlvin24h.club/mobile/"
-}
